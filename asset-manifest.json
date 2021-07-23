@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JoshChae/static/css/main.50a16123.chunk.css",
+    "main.js": "/JoshChae/static/js/main.09ea7865.chunk.js",
+    "main.js.map": "/JoshChae/static/js/main.09ea7865.chunk.js.map",
+    "runtime-main.js": "/JoshChae/static/js/runtime-main.17c56d12.js",
+    "runtime-main.js.map": "/JoshChae/static/js/runtime-main.17c56d12.js.map",
+    "static/js/2.a2ccd672.chunk.js": "/JoshChae/static/js/2.a2ccd672.chunk.js",
+    "static/js/2.a2ccd672.chunk.js.map": "/JoshChae/static/js/2.a2ccd672.chunk.js.map",
+    "index.html": "/JoshChae/index.html",
+    "static/css/main.50a16123.chunk.css.map": "/JoshChae/static/css/main.50a16123.chunk.css.map",
+    "static/js/2.a2ccd672.chunk.js.LICENSE.txt": "/JoshChae/static/js/2.a2ccd672.chunk.js.LICENSE.txt",
+    "static/media/Map Stories.3ee60896.png": "/JoshChae/static/media/Map Stories.3ee60896.png",
+    "static/media/Mini Twitter Project.0c2ddd96.png": "/JoshChae/static/media/Mini Twitter Project.0c2ddd96.png",
+    "static/media/Quartett.1b073b88.png": "/JoshChae/static/media/Quartett.1b073b88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c56d12.js",
+    "static/js/2.a2ccd672.chunk.js",
+    "static/css/main.50a16123.chunk.css",
+    "static/js/main.09ea7865.chunk.js"
+  ]
+}
