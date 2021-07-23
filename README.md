@@ -30,7 +30,7 @@ and envisions it strategically on the product.
 - 🐣 Fortunately, finished the course of Full-stack Web & App Bootcamp and keep learning on React & React Native  
   
 
-- 💬 Any questions about me are welcome🆙👍☕  
+- 💬 Any questions about me are welcome🆙👍☕  https://joshchae.github.io/JoshChae/
 
 
 </td><td valign="top" width="50%">
