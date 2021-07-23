@@ -1,4 +1,4 @@
-# Hello/안녕하세요, I'm Josh Chae 🕒👍🙃⚽🎸  
+## Hello/안녕하세요, I'm Josh Chae 🕒🙃⚽🎸  
   
 
 <a href="https://github.com/joshchae" target="_blank">
